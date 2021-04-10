@@ -15,6 +15,7 @@ Having a Glimspe on my current stuff :
 - 📫 How to reach me: gadmoin@gmail.com.
 
 <h3 align="left">Languages and Tools:</h3>
+![Moingeek's GitHub stats](https://github-readme-stats.vercel.app/api?username=moingeek&count_private=true&show_icons=true&theme=radical)
 <p align="left">
    <a href="https://www.php.net" target="_blank"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
@@ -93,8 +94,6 @@ Having a Glimspe on my current stuff :
       src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"
       height="40" /> </a>
 </p>
-
-![Moingeek's GitHub stats](https://github-readme-stats.vercel.app/api?username=moingeek&count_private=true&show_icons=true&theme=radical)
 
 <!--
 **moingeek/moingeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
