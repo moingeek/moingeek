@@ -5,17 +5,15 @@ I am a Full Stack Developer. Mainly presice with backend technologies. I work ov
 <a href="https://github.com/moingeek"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/moin-gadkari"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+Having a Glimspe on my current stuff :
+
+- 🔭 I’m currently working on building products which make Buying and Selling of Insurance user-friendly.
+-  👨🏻‍🔧 Currently the tools I work with are Laravel,React.Js,MySQL,AWS.
+-  🧑🏻‍💻 Currently I also working Desiging and Planning of System Architecture,Micro-service Architecture,Product Desiging,Database Architecture etc. 
+- 🌱 I’m currently learning how to use Docker and Kubernetes.
+- 💬 Ask me about anything I am happy to connect over and help.
+- 📫 How to reach me: gadmoin@gmail.com.
+
 <!--
 **moingeek/moingeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
