@@ -15,6 +15,7 @@ Having a Glimspe on my current stuff :
 - 💬 Ask me about anything I am happy to connect over and help.
 - 📫 How to reach me: gadmoin@gmail.com.
 
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=moingeek&show_icons=true&locale=en&count_private=true&theme=radical" alt="moingeek" /></p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
    <a href="https://www.php.net" target="_blank"> <img
@@ -96,9 +97,6 @@ Having a Glimspe on my current stuff :
 </p>
 
 </p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=moingeek&show_icons=true&locale=en&count_private=true" alt="moingeek" /></p>
-
 
 <!--
 **moingeek/moingeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
