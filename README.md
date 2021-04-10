@@ -14,7 +14,7 @@ Having a Glimspe on my current stuff :
 - 💬 Ask me about anything I am happy to connect over and help.
 - 📫 How to reach me: gadmoin@gmail.com.
 
-![Moin's GitHub stats](https://github-readme-stats.vercel.app/api?username=moingeek&count_private=true&show_icons=true&theme=radical)
+![Moin's GitHub stats](https://github-readme-stats.vercel.app/api?username=moingeek&count_private=true&show_icons=true&theme=dark)
 
 <!--
 **moingeek/moingeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
