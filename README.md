@@ -2,7 +2,7 @@
 
 I am a Full Stack Developer. Mainly presice with backend technologies. I work over various modern technologies and have expertise in Laravel(PHP Framework).I am always there to learn because I trutly belive that Success or Faliure are just terms in both the real things which we achieve is learnings. Love building products which solve some real life problems and ease up human life.
 
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" href="https://github.com/moingeek"/>
+<a href="https://github.com/moingeek"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <!--
 **moingeek/moingeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
