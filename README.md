@@ -14,6 +14,7 @@ Having a Glimspe on my current stuff :
 - 💬 Ask me about anything I am happy to connect over and help.
 - 📫 How to reach me: gadmoin@gmail.com.
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moingeek)](https://github.com/moingeek/github-readme-stats)
 ![Moin's GitHub stats](https://github-readme-stats.vercel.app/api?username=moingeek&count_private=true&show_icons=true&theme=radical)
 
 <!--
