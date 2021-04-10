@@ -14,8 +14,6 @@ Having a Glimspe on my current stuff :
 - 💬 Ask me about anything I am happy to connect over and help.
 - 📫 How to reach me: gadmoin@gmail.com.
 
-![Language's I work With : ](https://github-readme-stats.vercel.app/api/top-langs/?username=moingeek&theme=tokyonight)
-
 ![Moin's GitHub stats](https://github-readme-stats.vercel.app/api?username=moingeek&count_private=true)
 
 <!--
