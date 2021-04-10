@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Moin Gadkari,a Developer 👨‍💻,From Mumbai,India. 
 
-I am a Full Stack Developer. Mainly presice with backend technologies. I work over various modern technologies and have expertise in Laravel(PHP Framework).I am always there to learn because I trutly belive that Success or Faliure are just terms in both the real things which we achieve is learning.
+I am a Full Stack Developer. Mainly presice with backend technologies. I work over various modern technologies and have expertise in Laravel(PHP Framework).I am always there to learn because I trutly belive that Success or Faliure are just terms in both the real things which we achieve is learnings. Love building products which solve some real life problems and ease up human life.
 
 
 <!--
