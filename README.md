@@ -95,8 +95,12 @@ Having a Glimspe on my current stuff :
       height="40" /> </a>
 </p>
 
-![Moingeek's GitHub stats](https://github-readme-stats.vercel.app/api?username=moingeek&count_private=true&show_icons=true&theme=radical)
+</p>
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=moingeek&show_icons=true&locale=en&count_private=true" alt="moingeek" /></p>
+
 
 <!--
 **moingeek/moingeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Moingeek's GitHub stats](https://github-readme-stats.vercel.app/api?username=moingeek&count_private=true&show_icons=true&theme=radical)
 -->
