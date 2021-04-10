@@ -5,6 +5,9 @@ I am a Full Stack Developer. Mainly presice with backend technologies. I work ov
 <a href="https://github.com/moingeek"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/moin-gadkari"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=moingeek&label=Profile%20views&color=0e75b6&style=flat" alt="moingeek" /> </p>
+
+
 Having a Glimspe on my current stuff :
 
 - 🔭 I’m currently working on building products which make Buying and Selling of Insurance user-friendly.
@@ -94,9 +97,7 @@ Having a Glimspe on my current stuff :
       height="40" /> </a>
 </p>
 
-<p align="right">
 ![Moingeek's GitHub stats](https://github-readme-stats.vercel.app/api?username=moingeek&count_private=true&show_icons=true&theme=radical)
-</p>
 
 <!--
 **moingeek/moingeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
